@@ -16,9 +16,11 @@ The likelihood of yellowstone erupting would be best analyzed through a subjecti
 
 
 4. Explain the difference between descriptive and inferential statistics.
+
 Descriptive statistics summarize data. They show central tendencies, simplify the data, show variable relationships, gives an overview of the data set. Inferential statistics attempt to show information about a population based on a sample of that population. The assumption is that the sample is somewhat representative of the population as a whole, and by analyzing the sample, inferences can be made about the population. 
 
 5. Explain the difference between frequentist and Bayesian statistics.
+
 Frequentist statistics are based on the idea that probability is based on the frequency of events. Draws conclusions from the sample, and models based on probability but the parameters are not updated. Bayesian statistics model uncertainty, and the models are updated based on new information. The data and the parameters are modeled, whereas frequentist statistics only update the data predictions. 
 
 
