@@ -1,9 +1,11 @@
 Probability and Statistics
 
 1. Explain the difference between an experiment and a trial.
+
 An experiment can contain trials, i.e. a trial is one "run" of the experiment. An experiment is a repeatable procedure with a set of well-defined possible results.
 
 2. Explain the difference between an outcome and an event.
+
 An outcome is a single result, but an event can be made up of several outcomes. So a trial can result in, for example, a heads coming up on a coin flip. This would be an outcome. If three heads come up in a row, this is an event. 
 
 3. Come up with a real world example of each perspective of probability (classical, empirical, and subjective) that was not mentioned in class.
