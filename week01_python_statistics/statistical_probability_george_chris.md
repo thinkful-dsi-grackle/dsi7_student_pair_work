@@ -19,6 +19,9 @@ An example of subjective probability is the chance of rain in a weather forecast
 
 4. Explain the difference between descriptive and inferential statistics.
 
+Descriptive statistics is only for the sampled population where as inferential statistics reflects the result of the sample onto the whole population.
 
 
 5. Explain the difference between frequentist and Bayesian statistics.
+
+In bayesian statistics, every result affects the next outcome where as in frequentist statistics, every outcome is independent of each other.
