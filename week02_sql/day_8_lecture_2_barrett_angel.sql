@@ -31,7 +31,7 @@ SELECT trans, drive,
 COUNT(*) AS num_of_records, 
 ROUND(AVG(cty),2) AS avg_city
 FROM vehicles
-WHERE cyl > 4 AND displ > 2.5
+WHERE cyl <= 4 AND displ <= 2.5
 GROUP BY 1,2
 HAVING AVG(cty) > 18.0
 ORDER BY 3 DESC, 4 DESC;
