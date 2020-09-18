@@ -2,7 +2,7 @@ WITH time_table AS
 (
 SELECT *, 
 	CASE 
-		WHEN city = 'Lethbridge' THEN 'Canada/Mountain'
+		WHEN city = 'Lethbridge' THEN 'America/Edmonton'
 		WHEN city = 'Woodridge' THEN 'Australia/Brisbane' 
 	END AS time_zone
 FROM rental JOIN staff ON rental.staff_id = staff.staff_id
