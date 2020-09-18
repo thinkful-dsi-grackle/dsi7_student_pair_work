@@ -18,4 +18,4 @@ TO_CHAR(created_at, 'DD') as day,
 TO_CHAR(created_at, 'Day') as weekday_name,
 TO_CHAR(created_at, 'WW') as year_week
 FROM purchases AS purchase_2020
-LIMIT 100
+LIMIT 100;
