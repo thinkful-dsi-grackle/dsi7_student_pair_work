@@ -1,0 +1,1 @@
+NDSS Symposium 2020 Papers &#8212; Large pile of security research from the 2020 Network and Distributed System Security Symposium, including papers on topics as wide-reaching as hypervisor fuzzing and The Attack of the Clones Against Proof-of-Authority which sounds like a very niche Star Wars sequel indeed. Liquid Information Flow Control &#8212; We present Lifty, a [&#8230;]

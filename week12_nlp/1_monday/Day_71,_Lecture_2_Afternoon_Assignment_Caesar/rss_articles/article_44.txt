@@ -1,0 +1,1 @@
+So you need to redesign your company’s data infrastructure. Do you buy a solution from a big integration company like IBM, Cloudera, or Amazon?&#160; Do you engage many small startups, each focused on one part of the problem?&#160; A little of both?&#160; We see trends shifting towards focused best-of-breed platforms. That is, products that are [&#8230;]

@@ -1,0 +1,1 @@
+AlphaFold &#8212; This is astonishing: protein-folding solved by Google&#8217;s DeepMind. Figuring out what shapes proteins fold into is known as the “protein folding problem”, and has stood as a grand challenge in biology for the past 50 years. In a major scientific advance, the latest version of our AI system AlphaFold has been recognised as [&#8230;]

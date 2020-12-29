@@ -1,0 +1,1 @@
+Things I Learned to Become a Senior Software Engineer &#8212; Full of relatable growth moments, such as changing your code to make the test pass vs understanding why the test failed. The Future is Software Engineers Who Can&#8217;t Code &#8212; “There are lot of definitions of what a developer is [&#8230;] It’s not just people [&#8230;]

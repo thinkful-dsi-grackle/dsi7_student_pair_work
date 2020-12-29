@@ -1,0 +1,1 @@
+Surprising Economics of Load-Balanced Systems &#8212; I have a system with c servers, each of which can only handle a single concurrent request, and has no internal queuing. The servers sit behind a load balancer, which contains an infinite queue. An unlimited number of clients offer c * 0.8 requests per second to the load [&#8230;]

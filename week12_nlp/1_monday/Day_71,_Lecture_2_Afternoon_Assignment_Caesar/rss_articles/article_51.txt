@@ -1,0 +1,1 @@
+Migrating a 40TB SQL Server Database &#8212; A horror story to tell around the campfire. I was struck by the observation in this Hacker News comment that It&#8217;s typical that a log will be accessed zero times. Collecting, aggregating, and indexing logs is usually a mistake made by people who aren&#8217;t clear on the use [&#8230;]

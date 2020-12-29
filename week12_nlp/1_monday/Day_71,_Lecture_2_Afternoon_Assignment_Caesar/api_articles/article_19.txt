@@ -1,0 +1,1 @@
+We all see the naturality that Google developed on search while this is missing on Bing and other search engines.Knowing the fact of Microsoft development abilities, money the have and infrastructure (Azure) I'm very surprised how they are so behind in terms of features (search, NLP, context, etc) with Google.Anyone shares same opinion?

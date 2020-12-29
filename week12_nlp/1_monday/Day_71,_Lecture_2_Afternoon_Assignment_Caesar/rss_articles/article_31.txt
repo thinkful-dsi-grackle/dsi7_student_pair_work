@@ -1,0 +1,1 @@
+A Concurrency Cost Hierarchy &#8212; a higher level taxonomy that I use to think about concurrent performance. We’ll group the performance of concurrent operations into six broad levels running from fast to slow, with each level differing from its neighbors by roughly an order of magnitude in performance. They are: Contended Atomics, System Calls, Implied [&#8230;]

@@ -1,0 +1,1 @@
+I know it can be done on s3 , ec2, and cloudfrontany others besides those three?

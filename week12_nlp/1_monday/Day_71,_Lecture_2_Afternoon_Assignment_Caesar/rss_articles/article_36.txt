@@ -1,0 +1,1 @@
+Inside the Digital Pregnancy Test &#8212; &#8230; is a paper pregnancy test and watch-battery-powered microcontroller connected to three LEDs, a photo-cell, and an LCD display. That (8-bit) microcontroller runs at 4MHz, almost as fast as an IBM PC did. The Incredible Proof Machine &#8212; Fun game (modelled on The Incredible Machine from the 90s) that [&#8230;]
