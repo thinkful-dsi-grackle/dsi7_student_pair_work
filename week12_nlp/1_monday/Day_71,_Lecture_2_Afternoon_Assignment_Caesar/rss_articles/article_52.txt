@@ -1,0 +1,1 @@
+Turning the IDE Inside Out with Datalog &#8212; tl;dr: I made a prototype IDE in which language semantics are specified in datalog, powered by a datalog interpreter written in TypeScript, running the browser. Demo here. Luckysheet &#8212; Open source web spreadsheet. Introducing the Model Card Toolkit for Easier Model Transparency Reporting &#8212; Model Cards [&#8230;] [&#8230;]

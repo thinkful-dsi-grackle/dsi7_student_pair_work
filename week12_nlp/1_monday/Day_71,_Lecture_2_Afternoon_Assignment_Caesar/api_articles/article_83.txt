@@ -1,0 +1,3 @@
+I have a VPS but I only use it to host my blog.
+Since it's a $5 VPS in DigitalOcean (1G RAM, 1 vCPU, 25G SSD), it's not really feasible for distributed projects [1] that requires large computational resources.However, I would like to utilize my 1TB network traffic quota.
+Is there any cool things (especially for charitable purpose) I can try with the extra bandwidth I have?[1]: https://en.wikipedia.org/wiki/List_of_distributed_computing_projects

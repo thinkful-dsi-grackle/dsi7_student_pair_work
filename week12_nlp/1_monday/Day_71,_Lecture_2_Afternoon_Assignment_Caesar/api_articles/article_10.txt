@@ -1,0 +1,1 @@
+I'm going to make a competition for my company's developers so that we can explore other problem domains with programming. I'm thinking about something simple, where one can make a playable AI without too much effort. Can anyone recommend such game? Can you also recommend a server software to host this competition?

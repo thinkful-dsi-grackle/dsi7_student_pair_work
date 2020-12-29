@@ -1,0 +1,1 @@
+In a conversation with Kevlin Henney, we started talking about the kinds of user interfaces that might work for AI-assisted programming. This is a significant problem: neither of us were aware of any significant work on user interfaces that support collaboration. However, as software developers, many of us have been practicing effective collaboration for years. [&#8230;]

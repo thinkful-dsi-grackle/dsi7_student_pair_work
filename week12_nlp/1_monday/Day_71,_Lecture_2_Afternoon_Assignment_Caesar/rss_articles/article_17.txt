@@ -1,0 +1,1 @@
+Phantom of the ADAS &#8212; In this paper, we investigate &#8220;split-second phantom attacks,&#8221; a scientific gap that causes two commercial advanced driver-assistance systems (ADASs), Telsa Model X (HW 2.5 and HW 3) and Mobileye 630, to treat a depthless object that appears for a few milliseconds as a real obstacle/object. Turns out neural networks can [&#8230;]

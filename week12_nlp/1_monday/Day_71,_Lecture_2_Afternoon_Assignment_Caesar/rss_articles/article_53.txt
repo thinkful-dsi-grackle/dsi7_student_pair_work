@@ -1,0 +1,1 @@
+The Golden Rule of Software Quality &#8212; Prefer to push fixes upstream instead of working around problems downstream. That is to say: if you find a shortcoming in a package you use, then you should fix it and contribute your fix to that package. Don&#8217;t simply workaround it in your code. The Coining of the [&#8230;]

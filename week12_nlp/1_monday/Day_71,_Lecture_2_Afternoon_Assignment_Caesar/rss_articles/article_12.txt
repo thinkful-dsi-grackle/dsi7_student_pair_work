@@ -1,0 +1,1 @@
+Hypothesis as Liability &#8212; Would the mental focus on a specific hypothesis prevent us from making a discovery? To test this, we made up a dataset and asked students to analyze it. [&#8230;] The most notable “discovery” in the dataset was that if you simply plotted the number of steps versus the BMI, you would [&#8230;]

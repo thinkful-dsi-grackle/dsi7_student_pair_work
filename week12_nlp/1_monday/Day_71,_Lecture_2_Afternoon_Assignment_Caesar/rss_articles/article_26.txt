@@ -1,0 +1,1 @@
+Single Device Behaves Like a Neuron &#8212; On its own, using a simple DC voltage as the input, the device outputs not just simple spikes, as some other devices can manage, but the whole array of neural activity—bursts of spikes, self-sustained oscillations, and other stuff that goes on in your brain. (Paper) USB-C Is a [&#8230;]

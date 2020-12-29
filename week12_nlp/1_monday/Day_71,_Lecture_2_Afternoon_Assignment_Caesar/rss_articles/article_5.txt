@@ -1,0 +1,1 @@
+Brian Kernighan Interviews Ken Thompson &#8212; From a fun interview: McIlroy keeps coming up. He&#8217;s the smartest of all of us and the least remembered (or written down)&#8230; McIlroy sat there and wrote &#8212;on a piece of paper, now, not on a computer&#8212; TMG [a proprietary yacc-like program] written in TMG&#8230; And then! He now [&#8230;]

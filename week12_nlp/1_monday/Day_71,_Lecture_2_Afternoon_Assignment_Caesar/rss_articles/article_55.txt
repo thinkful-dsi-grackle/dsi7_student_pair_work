@@ -1,0 +1,1 @@
+A recent article in The Verge discussed PULSE, an algorithm for “upsampling” digital images. PULSE, when applied to a low-resolution image of Barack Obama, recreated a White man&#8217;s face; applied to Alexandria Ocasio-Cortez, it built a White woman&#8217;s face.  It had similar problems with other images of Black and Hispanic people, frequently giving them White [&#8230;]

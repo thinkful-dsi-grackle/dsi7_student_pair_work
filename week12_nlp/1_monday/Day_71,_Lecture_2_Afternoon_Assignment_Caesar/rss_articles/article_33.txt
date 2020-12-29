@@ -1,0 +1,1 @@
+Accurately Lipsync Video to Any Speech &#8212; In our paper, A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild, ACM Multimedia 2020, we aim to lip-sync unconstrained videos in the wild to any desired target speech. (Paper) Impressive. Temporal &#8212; Open source &#8220;workflow-as-code&#8221; engine. I can&#8217;t decide if [&#8230;]

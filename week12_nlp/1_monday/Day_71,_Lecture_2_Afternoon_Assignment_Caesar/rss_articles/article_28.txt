@@ -1,0 +1,1 @@
+When Coffeemakers Demand Ransom &#8212; So he then examined the mechanism the coffee maker used to receive firmware updates. It turned out they were received from the phone with—you guessed it—no encryption, no authentication, and no code signing. Nothing remarkable here other than it&#8217;s 2020 and companies still put crappy software into their hardware. Returns [&#8230;]

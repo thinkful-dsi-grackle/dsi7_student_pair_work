@@ -1,0 +1,1 @@
+Data Organization in Spreadsheets &#8212; Focusing on the data entry and storage aspects, this article offers practical recommendations for organizing spreadsheet data to reduce errors and ease later analyses. The basic principles are: be consistent, write dates like YYYY-MM-DD, do not leave any cells empty, put just one thing in a cell, organize the data [&#8230;]
