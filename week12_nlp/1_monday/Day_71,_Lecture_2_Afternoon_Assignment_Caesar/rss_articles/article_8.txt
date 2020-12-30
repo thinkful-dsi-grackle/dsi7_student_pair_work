@@ -1,1 +1,0 @@
-If software is such stuff as dreams are made on, how do we talk about nightmares? Software is not the tangible, kickable stuff our senses are tuned to, so we draw on metaphor to communicate and reason about it. The 1970s offered up spaghetti code to describe the tangle of unstructured control flow. This has [&#8230;]

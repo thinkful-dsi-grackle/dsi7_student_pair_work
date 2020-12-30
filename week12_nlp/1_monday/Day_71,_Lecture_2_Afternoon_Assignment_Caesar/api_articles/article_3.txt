@@ -1,1 +1,0 @@
-I find Jira, Aha, etc to be mediocre for in depth planning. Most the tools are geared towards either individual task management, or gants/timelines that have more to do with defining deadlines. And both are clunky. I want a tool that lets you easily define complex dependencies, edit them frequently, and do bulk operations easily.

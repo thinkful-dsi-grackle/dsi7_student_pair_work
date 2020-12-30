@@ -1,1 +1,0 @@
-Strada will premiere in 2021.How can a server rendered app be compiled to a ios/android app with a single codebase?
