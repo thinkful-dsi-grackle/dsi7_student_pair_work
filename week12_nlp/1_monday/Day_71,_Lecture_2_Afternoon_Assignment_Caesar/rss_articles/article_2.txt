@@ -1,1 +1,0 @@
-NAND Game &#8212; You start with a single component, the nand gate. Using this as the fundamental building block, you will build all other components necessary. (See also NAND to Tetris) Facebook&#8217;s Game AI &#8212; today we are unveiling Recursive Belief-based Learning (ReBeL), a general RL+Search algorithm that can work in all two-player zero-sum games, [&#8230;]

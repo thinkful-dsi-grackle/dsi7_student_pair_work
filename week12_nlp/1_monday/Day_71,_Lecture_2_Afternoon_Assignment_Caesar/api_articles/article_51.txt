@@ -1,1 +1,0 @@
-I find jira clunky when it comes to managing dependencies between tasks. I’ve used other gant charting software but for me the focus on the time aspect is more geared towards PMs figuring out deadlines.I’d like something that lets you write out a dep graph with intricate dependencies, and frequently and easily update those deps.

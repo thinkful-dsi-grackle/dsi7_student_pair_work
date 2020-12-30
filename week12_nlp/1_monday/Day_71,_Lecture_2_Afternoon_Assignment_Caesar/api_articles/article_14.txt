@@ -1,1 +1,0 @@
-*offline-first, online is hard to avoid :)

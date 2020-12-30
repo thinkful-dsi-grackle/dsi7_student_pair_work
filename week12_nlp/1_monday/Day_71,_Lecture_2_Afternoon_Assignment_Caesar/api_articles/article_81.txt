@@ -1,1 +1,0 @@
-A large scale phishing campaign using GitHub pages and targeted Facebook Ads has stolen the credentials of more than 615,000 Facebook users. A misleading ad on Facebook offering 3GB free data from Nepal Telecom has redirected users to the Phishing page. Users from Nepal, the Philippines, Tunisia, Pakistan, Mongolia, and Egypt are broadly affected by the campaign.

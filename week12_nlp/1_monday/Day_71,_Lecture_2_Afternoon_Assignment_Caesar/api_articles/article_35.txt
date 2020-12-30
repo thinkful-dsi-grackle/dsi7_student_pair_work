@@ -1,1 +1,0 @@
-For my side project I need a textual list of all the objects and their Javascript methods implemented by the browser to parse them for my purposes. Is there something similar on the web, without any markup, maybe in a gist?
